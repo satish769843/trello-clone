@@ -1,0 +1,13 @@
+{
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.quoteStyle": "single",
+    "turboConsoleLog.quote": "'",
+    "javascript.format.semicolons": "remove",
+    "typescript.format.semicolons": "remove",
+    "turboConsoleLog.addSemicolonInTheEnd": true,
+    "prettier.endOfLine": "auto",
+    "prettier.jsxBracketSameLine": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "editor.wordWrap": "on"
+}
